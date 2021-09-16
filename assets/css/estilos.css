@@ -28,3 +28,9 @@ h2{
     color:white;
     border-radius: 25px;
 }
+
+.btn-position{
+    position:absolute;
+    bottom:90%;
+    left: 200px;
+}
