@@ -31,6 +31,13 @@ h2{
 
 .btn-position{
     position:absolute;
-    bottom:90%;
+    top:100%;
     left: 200px;
+}
+
+.box-position{
+    position: absolute;
+    top:0%;
+    right: 10%;
+    background-color: thistle;
 }
